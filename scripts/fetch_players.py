@@ -1,5 +1,3 @@
-
-from nba_api.live.nba.endpoints import scoreboard
 from nba_api.stats.endpoints import leaguedashplayerstats
 import pandas as pd
 
